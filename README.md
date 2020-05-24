@@ -1,6 +1,14 @@
 # Undistorting Image
 ## Introduction
 This project shows how to correct image for lens distortion. 
+
+### Distorted Image
+![distorted.png](https://github.com/HugoNip/UndistortingImage/blob/master/data/distorted.png)
+
+### Result
+![]()
+
+
 ## Requirements
 ### OpenCV
 #### Required Packages
